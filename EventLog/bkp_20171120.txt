@@ -1,0 +1,61 @@
+Mon Jul 24 02:38:32 2017 :: :: Event Written :::  ID = 1 :: GATE = 25 :: OBJECT  = 4 :: USER  = 9999 :: STATUS = False
+Mon Jul 24 02:38:42 2017 :: :: Event Written :::  ID = 2 :: GATE = 25 :: OBJECT  = 4 :: USER  = 9999 :: STATUS = True
+Wed Sep 20 03:03:50 2017 :: :: ERROR :: DAL_getPendingData() at DAL.py
+Wed Sep 20 03:03:50 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: 'NoneType' object is not iterable
+Wed Sep 20 03:05:31 2017 :: :: ERROR :: DAL_getPendingData() at DAL.py
+Wed Sep 20 03:05:31 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: 'NoneType' object is not iterable
+Wed Sep 20 03:36:17 2017 :: :: ERROR :: DAL_getPendingData() at DAL.py
+Wed Sep 20 03:36:17 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: 'NoneType' object is not iterable
+Wed Sep 20 03:37:16 2017 :: :: ERROR :: DAL_getPendingData() at DAL.py
+Wed Sep 20 03:37:16 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: 'NoneType' object is not iterable
+Sat Sep 23 16:37:31 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: local variable 'e' referenced before assignment
+Sat Sep 23 18:32:59 2017 :: :: ERROR :: dataProcessing.py :: list index out of range
+Sat Sep 23 19:30:02 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: local variable 'e' referenced before assignment
+Sat Sep 23 19:30:02 2017 :: :: ERROR :: dataProcessing.py :: 'NoneType' object is not iterable
+Sat Sep 23 19:31:59 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: local variable 'e' referenced before assignment
+Sat Sep 23 19:31:59 2017 :: :: ERROR :: dataProcessing.py :: 'NoneType' object is not iterable
+Sat Sep 23 20:04:57 2017 :: :: ERROR :: dataProcessing.py :: 'Serial' object has no attribute 'reset_input_buffer'
+Sat Sep 23 20:05:56 2017 :: :: ERROR :: dataProcessing.py :: 'Serial' object has no attribute 'reset_output_buffer'
+Sat Sep 23 20:14:48 2017 :: :: ERROR :: dataProcessing.py :: 'Serial' object has no attribute '__del__'
+Sat Sep 23 20:15:26 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: local variable 'e' referenced before assignment
+Sat Sep 23 20:15:26 2017 :: :: ERROR :: dataProcessing.py :: 'NoneType' object is not iterable
+Sat Sep 23 20:28:00 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: local variable 'e' referenced before assignment
+Sat Sep 23 20:28:00 2017 :: :: ERROR :: dataProcessing.py :: 'NoneType' object is not iterable
+Sat Sep 23 20:50:26 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: local variable 'e' referenced before assignment
+Sat Sep 23 20:50:26 2017 :: :: ERROR :: dataProcessing.py :: 'NoneType' object is not iterable
+Sat Sep 23 21:58:39 2017 :: :: ERROR :: DAL_getPendingData() at DAL.py
+Sat Sep 23 21:58:39 2017 :: :: ERROR :: Connection not Closed at App/DAL.py :: Connection Failed :: ::  could not connect to server: No route to host
+	Is the server running on host "192.168.1.23" and accepting
+	TCP/IP connections on port 5432?
+
+Sat Sep 23 21:58:39 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: 'NoneType' object is not iterable
+Sat Sep 23 21:58:39 2017 :: :: ERROR :: dataProcessing.py :: 'NoneType' object is not iterable
+Sat Sep 23 22:26:32 2017 :: :: ERROR :: DAL_getPendingData() at DAL.py
+Sat Sep 23 22:26:32 2017 :: :: ERROR :: Connection not Closed at App/DAL.py :: Connection Failed :: ::  server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+Sat Sep 23 22:26:32 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: 'NoneType' object is not iterable
+Sat Sep 23 22:26:32 2017 :: :: ERROR :: dataProcessing.py :: 'NoneType' object is not iterable
+Sun Sep 24 02:44:10 2017 :: :: ERROR :: DAL_getPendingData() at DAL.py
+Sun Sep 24 02:44:10 2017 :: :: ERROR :: Connection not Closed at App/DAL.py :: Connection Failed :: ::  could not connect to server: No route to host
+	Is the server running on host "192.168.1.23" and accepting
+	TCP/IP connections on port 5432?
+
+Sun Sep 24 02:44:10 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: 'NoneType' object is not iterable
+Sun Sep 24 02:44:10 2017 :: :: ERROR :: dataProcessing.py :: 'NoneType' object is not iterable
+Mon Sep 25 02:18:05 2017 :: :: ERROR :: DAL_getPendingData() at DAL.py
+Mon Sep 25 02:18:05 2017 :: :: ERROR :: Connection not Closed at App/DAL.py :: Connection Failed :: ::  could not connect to server: No route to host
+	Is the server running on host "192.168.1.23" and accepting
+	TCP/IP connections on port 5432?
+
+Mon Sep 25 02:18:05 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: 'NoneType' object is not iterable
+Mon Sep 25 02:18:05 2017 :: :: ERROR :: dataProcessing.py :: 'NoneType' object is not iterable
+Fri Sep 29 23:50:29 2017 :: :: ERROR :: DAL_getPendingData() at DAL.py
+Fri Sep 29 23:50:29 2017 :: :: ERROR :: Connection not Closed at App/DAL.py :: Connection Failed :: ::  SSL connection has been closed unexpectedly
+
+Fri Sep 29 23:50:29 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: 'NoneType' object is not iterable
+Fri Sep 29 23:50:29 2017 :: :: ERROR :: dataProcessing.py :: 'NoneType' object is not iterable
+Sat Sep 30 00:46:46 2017 :: :: ERROR :: BLL_getPendingData() at BLL.py :: local variable 'e' referenced before assignment
+Sat Sep 30 00:46:46 2017 :: :: ERROR :: dataProcessing.py :: 'NoneType' object is not iterable
+Mon Nov 20 23:11:45 2017 :: :: ERROR :: InnTime.py :: name 'BLL_getActiveSensors' is not defined
